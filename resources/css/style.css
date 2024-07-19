@@ -1,7 +1,7 @@
 body {
     background-color: black;
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 /* HEADING */
@@ -34,6 +34,7 @@ body {
 
 .link--copyright {
     font-size: 21px;
-    color: grey;
+    color: gray;
     text-align: right;
+    display: block;
 }
